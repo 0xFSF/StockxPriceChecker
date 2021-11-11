@@ -1,5 +1,5 @@
 # StockxPriceChecker
-Checks best sizes based on given price, day and sku
+Checks best sizes based on given price, day and sku\n
 Program is adapted to the company whose sales are based on the return of VAT on each shoe and writes size if the margin is higher or equal to 28%
 Program doesn't write size if the difference between 20th purchase and today's day is more 7 days
 
