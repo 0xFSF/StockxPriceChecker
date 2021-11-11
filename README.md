@@ -1,7 +1,7 @@
 # StockxPriceChecker
 Checks best sizes based on given price, day and sku.
 Program is adapted to the company whose sales are based on the return of VAT and writes size if the margin is higher or equal to 28%.
-Program doesn't write size if the difference between 20th purchase and today's day is more 7 days. Sometimes may pop up something on stockx, just click 'close' manually.
+Program doesn't write size if the difference between 20th purchase and today's day is more than 7 days. Sometimes may pop up something on stockx, just click 'close' manually.
 
 ## data.txt
 1. Put stockx email
